@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/web-math/static/css/main.f4405975.css",
-    "main.js": "/web-math/static/js/main.fa983f70.js",
+    "main.js": "/web-math/static/js/main.e284bf80.js",
     "static/media/fondo.jpg": "/web-math/static/media/fondo.2f8886c4c1b7e97c3e1c.jpg",
     "static/media/Braid-modular-group-cover.svg.png": "/web-math/static/media/Braid-modular-group-cover.svg.69f8d7591ff2c1698daf.png",
     "index.html": "/web-math/index.html",
     "main.f4405975.css.map": "/web-math/static/css/main.f4405975.css.map",
-    "main.fa983f70.js.map": "/web-math/static/js/main.fa983f70.js.map"
+    "main.e284bf80.js.map": "/web-math/static/js/main.e284bf80.js.map"
   },
   "entrypoints": [
     "static/css/main.f4405975.css",
-    "static/js/main.fa983f70.js"
+    "static/js/main.e284bf80.js"
   ]
 }
