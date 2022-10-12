@@ -25,7 +25,7 @@ function App() {
       <AuthProvider>
         {/* Routes are created down here */}
         <Routes>
-          <Route path={'/'} element={
+          <Route path={'/web-math'} element={
             // ProtectedRoute is for protect some
             //route specifically
             <ProtectedRoute>
